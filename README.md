@@ -1,6 +1,8 @@
+<!DOCTYPE html>
+<html>
 
-# HTML Introduction - Lab
 
+</html>
 ## Introduction
 
 It's time to practice making a well formatted HTML document! While you may normally prefer to work locally, you're encouraged to work on this lesson through the Learn platform, as it will be formatted nicely, with screenshots inline to guide you and a built-in development environment.
